@@ -4,3 +4,4 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
 ## Cambios nuevos desde Githubbbb
+## Cambios nuevos desde VS Code localmente otra vez
